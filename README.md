@@ -1,6 +1,6 @@
 # Projeto Santander Dev
 
-Reciando o Projeto Java RESTful API do Santander Dev.
+Recriado o Projeto Java RESTful API do Santander Dev em forma de estudo.
 
 ## Principais Tecnologias
  - **Java 17**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
